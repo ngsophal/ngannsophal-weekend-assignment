@@ -1,0 +1,32 @@
+
+.line-bottom{ border-bottom: solid 1px #D2D6DE; }
+.title-rows{ padding-bottom: 10px; font-weight: bolder;}
+#row-data .row{padding-bottom: 10px;}
+.order_total_amount{
+	border-bottom: solid 2px #333333; 
+	font-weight: bolder;
+}
+.title-box-customer-payment{
+	font-weight: bold;
+	font-size: 14px;
+	display: inline-block;
+	width: 40%;
+}
+#add_row_customer_payment{
+	width: 57%;
+	text-align: left;
+	display: inline-block;
+	margin-left:10px;
+}
+#datatable-customer-payment th,#table-detail-product-order{
+	font-size: 14px;
+	line-height: 1.42857;
+    padding: 8px;
+    font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+#datatable-product-order td{
+	font-size: 14px;
+}
+.text-center {
+    text-align: center !important;
+}
