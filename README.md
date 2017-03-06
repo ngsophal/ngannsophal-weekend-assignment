@@ -6,6 +6,13 @@ Note: mockup data with following account (username/pwd)<br>
 1 - admin / adminPassword<br>
 2 - user-test / userPassword 
 
+#Application features:
+-user must login first before using the system.<br>
+-list customer page + filter by phone number / email + pagination<br>
+-insert new record<br>
+-edit record<br>
+-delete<br>
+
 # Create MySql database    
 ```java
 =====initial sql schema.sql======== run it mysql console
